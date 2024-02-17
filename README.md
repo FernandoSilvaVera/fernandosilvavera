@@ -8,7 +8,7 @@ Me gusta trabjar con entornos CRM & ecommerce
 
 Aquí puedes ver mi experiencia
 
-<a href="https://www.linkedin.com/in/fernando-silva-vera-6812bb176/"><img align="left" alt="linkedin Fernando Silva Vera" width="18px" src="linkedin.svg" /></a> [linkedin profile](https://www.linkedin.com/in/fernando-silva-vera-6812bb176/)
+<a href="https://www.linkedin.com/in/fernando-silva-vera-6812bb176/"><img align="left" alt="linkedin Fernando Silva Vera" width="18px" src="linkedin.svg" /></a> [perfil de linkedin](https://www.linkedin.com/in/fernando-silva-vera-6812bb176/)
 
 
 <h2>Lenguajes y Herramientas</h2>
