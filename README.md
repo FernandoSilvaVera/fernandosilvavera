@@ -1,8 +1,8 @@
 ### ¡Hola! 👋
 Soy Fernando un programador +7 años de experiencia
 
-Estoy especializado en PHP y Shopify
-Me gusta trabjar con entornos CRM & ecommerce
+Estoy especializado en PHP, .NET y Shopify
+Me gusta trabajar con proyectos CRM & ecommerce
 
 ### Más información
 
