@@ -2,6 +2,7 @@
 Soy Fernando un programador +7 años de experiencia
 
 Me especializo en PHP, .NET y Shopify, y disfruto trabajando en proyectos de CRM y ecommerce.
+
 Suelo trabajar en entornos Linux, utlizando VIM como IDE.
 
 ### Aquí puedes ver mi experiencia
