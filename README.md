@@ -1,10 +1,11 @@
 ### ¡Hola! 👋
+<div>
 Soy Fernando un programador +7 años de experiencia
 
 Me especializo en PHP, .NET y Shopify, y disfruto trabajando en proyectos de CRM y ecommerce.
 
 Suelo trabajar en entornos Linux, utlizando VIM como IDE.
-
+</div>
 ### Aquí puedes ver mi experiencia
 
 <a href="https://www.linkedin.com/in/fernando-silva-vera-6812bb176/"><img align="left" alt="linkedin Fernando Silva Vera" width="18px" src="linkedin.svg" /></a> [Perfil de linkedin](https://www.linkedin.com/in/fernando-silva-vera-6812bb176/)
