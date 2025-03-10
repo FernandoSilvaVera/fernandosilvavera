@@ -8,10 +8,6 @@ Me gusta trabajar con proyectos CRM & ecommerce
 
 <a href="https://www.linkedin.com/in/fernando-silva-vera-6812bb176/"><img align="left" alt="linkedin Fernando Silva Vera" width="18px" src="linkedin.svg" /></a> [Perfil de linkedin](https://www.linkedin.com/in/fernando-silva-vera-6812bb176/)
 
-### Reseñas
-
-<a href="https://www.fiverr.com/fernandoxsv"><img align="left" alt="linkedin Fernando Silva Vera" width="18px" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/fiverr-icon.png" /></a> [Reseñas Fiverr](https://www.fiverr.com/fernandoxsv)
-
 
 <h2>Lenguajes y Herramientas</h2>
 <div>
