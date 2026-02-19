@@ -4,11 +4,6 @@ Soy Fernando un programador +7 años de experiencia
 Estoy especializado en PHP, .NET y Shopify
 Me gusta trabajar con proyectos CRM & ecommerce
 
-### Aquí puedes ver mi experiencia
-
-<a href="https://www.linkedin.com/in/fernando-silva-vera-6812bb176/"><img align="left" alt="linkedin Fernando Silva Vera" width="18px" src="linkedin.svg" /></a> [Perfil de linkedin](https://www.linkedin.com/in/fernando-silva-vera-6812bb176/)
-
-
 <h2>Lenguajes y Herramientas</h2>
 <div>
 <img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" />
