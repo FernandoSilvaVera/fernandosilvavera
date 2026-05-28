@@ -33,6 +33,13 @@ Actualmente desarrollo Synapsale, una plataforma SaaS B2B de ventas con IA, dond
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
 
+### Repositorios a revisar primero
+
+- [GitAI](https://github.com/FernandoSilvaVera/GitAI) - proyecto PHP orientado a automatización y uso práctico de IA.
+- [Trackime](https://github.com/FernandoSilvaVera/Trackime) - aplicación web en PHP con base de producto y lógica de negocio.
+- [PrestaScraping](https://github.com/FernandoSilvaVera/PrestaScraping) - automatización y extracción de datos con JavaScript.
+- [FSRose](https://github.com/FernandoSilvaVera/FSRose) - personalización Shopify/Liquid y trabajo frontend sobre e-commerce.
+
 ### Áreas donde aporto más valor
 
 - Producto SaaS B2B y software interno orientado a negocio.
